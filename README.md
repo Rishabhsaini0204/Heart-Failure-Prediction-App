@@ -9,6 +9,9 @@ This project leverages ML models to predict the likelihood of a heart attack bas
 - Machine learning models trained on patient health data.
 - Real-time predictions based on user input.
 
+- ![image](https://github.com/user-attachments/assets/1c222196-974c-4895-9869-672a37c40c35)
+# Download Code :-[ Click here](https://updategadh.com/)
+
 ## Dataset
 The project uses a dataset (`hf.csv`) containing medical records of patients. The key features include:
 - **Age**
