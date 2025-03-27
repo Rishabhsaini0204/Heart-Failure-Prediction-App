@@ -10,6 +10,8 @@ This project leverages ML models to predict the likelihood of a heart attack bas
 - Real-time predictions based on user input.
 
 - ![image](https://github.com/user-attachments/assets/1c222196-974c-4895-9869-672a37c40c35)
+- ![image](https://github.com/user-attachments/assets/07892d32-ac6f-453b-8bb4-d12c92e34468)
+
 # Download Code :-[ Click here](https://updategadh.com/)
 
 ## Dataset
